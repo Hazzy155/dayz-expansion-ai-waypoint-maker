@@ -15,5 +15,6 @@ Simply configure what you want on the left and then click Generate Config
 Then simply copy and paste the formatted config output into your AIPatrolSettings.json and Done!
 
 
+![Example App Screenshot](Screenshot.png)
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+This program was made in about 2h using chat GPT because I couldn't be bothered to make it myself.
