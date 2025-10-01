@@ -1,4 +1,4 @@
-<h1 align="center">dayz-expansion-ai-waypoint-maker dayz-expansion-ai-waypoint-maker</h1>
+<h1 align="center">dayz-expansion-ai-waypoint-maker</h1>
 
 [This tool requires VPPAdminTools](https://steamcommunity.com/sharedfiles/filedetails/?id=1828439124)
 
