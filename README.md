@@ -17,4 +17,4 @@ Then simply copy and paste the formatted config output into your AIPatrolSetting
 
 ![Example App Screenshot](Screenshot.png)
 
-This program was made in about 2h using chat GPT because I couldn't be bothered to make it myself.
+This program was made in about 2h using chat GPT because I couldn't be bothered to make it myself. if it blows up your computer that's your problem not mine.
