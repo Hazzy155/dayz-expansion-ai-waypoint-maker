@@ -2,6 +2,11 @@
 
 [This tool requires VPPAdminTools](https://steamcommunity.com/sharedfiles/filedetails/?id=1828439124)
 
+<h3 align="center">How does it work?</h3>
+
+The program just looks at your clipboard and checks whenever it's updated. it does not interact with the game at all because when you press P using VPP admin tools it copies your current location to the clipboard. it just takes that output and formats it correctly.
+
+
 <h3 align="center">How to use</h3>
 
 Simply start up your game and press Start recording
